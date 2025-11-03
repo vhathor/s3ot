@@ -1,5 +1,6 @@
 Setup 
 
+-- Update from Vishal in Github editor
 
 # Step-by-Step Guide: Connecting Two Snowflake Accounts to One GitHub Repository
 
